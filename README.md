@@ -12,7 +12,7 @@ When new clients are aquired the can simply be added into the .csv with their ac
 
 
 ### Required Modules
-- selenium (using (http://chromedriver.chromium.org/ "ChromeDriver"))
+- selenium (using [ChromeDriver](http://chromedriver.chromium.org/))
 - time
 - datetime
 - random
